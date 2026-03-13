@@ -1,0 +1,11 @@
+{
+  "version": "2.0.1",
+  "notes": "Adición de AutoUpdater",
+  "pub_date": "2026-03-13T18:20:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScHN2TmVoNDl5VXpTeUR2TlRoQkZ0SDIyc2Q3RGt4eWNzMnJBQThZUUgwdFZMOFo0MjUwQ21GY3dTb291aUpaU2NrMUhtVTRNR0EwV0NrdGR2YTJHRDRYbzNlYnJLMEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDQxNTY1CWZpbGU6SGFrdV8yLjAuMV94NjQtc2V0dXAuZXhlClcrU0g1WUgvYmdsVTRSRzNRZC9aMkZYcTd3ZmxicTZhL25PN3hBdC9VeXJQSzB5eWJUSnRiaFJiaVgwdW1wZUVmblBEVEJiSGpwVWxISm9QTE5NdUR3PT0K",
+      "url": "https://github.com/ItsDasp/haku-releases/releases/download/v2.0.1/Haku_2.0.1_x64-setup.exe"
+    }
+  }
+}
