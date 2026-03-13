@@ -1,1 +1,9 @@
-
+{
+  "languages": [
+    {
+      "code": "ja",
+      "label": "日本語",
+      "url": "https://raw.githubusercontent.com/ItsDasp/haku-releases/main/i18n/langs/ja.json"
+    }
+  ]
+}
