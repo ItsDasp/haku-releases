@@ -1,11 +1,11 @@
 {
-  "version": "2.0.1",
-  "notes": "Adición de AutoUpdater",
+  "version": "2.0.2",
+  "notes": "Minor fixes",
   "pub_date": "2026-03-13T18:20:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScHN2TmVoNDl5VTl6bWhLaGh2cWpCcUpiK3JBZ2tMcnM4SFEvK0FPeFYyMVRmS1FOUy9oeFFaUG1BVHpoU21CTVdweFA3VEc1SGhGT1RSU2RCb2crZy9GVC9ZZUtzQ3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDQ0MzAwCWZpbGU6SGFrdV8yLjAuMV94NjQtc2V0dXAuZXhlClBtcUpzdWxBOGJ3elAvTFVoRG9Dckx1UjF5QzBQNkxhaG1hTzdPaDd1em94L3R6L2VoaUhCSWM1RVlSdHNiRWt0VUVpSS95Y2tUTzl3ZVVPRWxQSEFRPT0K",
-      "url": "https://github.com/ItsDasp/haku-releases/releases/download/v2.0.1/Haku_2.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScHN2TmVoNDl5VTk2NXlLTXFjajdhZ3dOaWpzaGw5c2pNQkRRQXZ4Uk5xRGM5blc4WUJpZTJKZkRFYi9hQ29BR2NmSklCUnlIT3V4UDlpMHorUUtxNGRUTnNiVkxQVWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDUxNDA3CWZpbGU6SGFrdV8yLjAuMl94NjQtc2V0dXAuZXhlCm9EbXBOeWFnY2tTV3l5c3RJVEhuK29hUVFXbFJIM29zSzlUQXVlT1BDUHRFSlV0K0ZDQzB0UXpOSTJUYi9DZCtEbGJyTUdLa0RMa2FLUWlLY25MOUFBPT0K",
+      "url": "https://github.com/ItsDasp/haku-releases/releases/download/v2.0.2/Haku_2.0.2_x64-setup.exe"
     }
   }
 }
