@@ -1,11 +1,11 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "notes": "Color Customization",
   "pub_date": "2026-05-28T18:20:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdWdsaEhmNXU4Sm5OUXlLTWV6Uk02c0k1ZkdzbklFam1qSTZ6dzRUbGw5YkFibEtpU0xRbnFjUG9WaFNCREhWN0QydnlWU2M4ZDVoSkdNM0Z5N21uc1lYTHRPL3dpM2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTQ0MDE1CWZpbGU6SGFrdV8yLjIuMF94NjQtc2V0dXAuZXhlCnRtOG5id3lXeFB3czdRL3pBN2dLdHUvZFNWQk5zSHF1OTZDRVVCRkV4V3FkUHkyWXJQL2hCWFJKVHhycWRwSnNUNnh0MkdEbTNIbEFRdjJjblBmdURnPT0K",
-      "url": "https://github.com/ItsDasp/haku-releases/releases/download/v2.2.0/Haku_2.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdWdsaEhmNXU4SnFvKzdhZXlSRHJOYzJ2VkxLbXR6UHpzSkdNcXE5UHROaVJISE5QUG1kQmY2cDd3N3ZOTXdLeTBaeU1rNHFjNHZZRTNPeWFhaEFGRW1xcEdCV05zK0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDAwMjcwCWZpbGU6SGFrdV8yLjIuMV94NjQtc2V0dXAuZXhlCkc4K0ZvM1VMRk9SK2JLTGNVeDhCK084V0p3bXBBZmY2amord0MrME1FcXhyQzVLOW9NMGFROGdadm1KT1hKMjdEQ0M5N3JldFFXY0lBZ3ZkVm5qVUFRPT0K",
+      "url": "https://github.com/ItsDasp/haku-releases/releases/download/v2.2.1/Haku_2.2.1_x64-setup.exe"
     }
   }
 }
