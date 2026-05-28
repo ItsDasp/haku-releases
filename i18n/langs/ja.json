@@ -8,6 +8,11 @@
     "file": "ファイル",
     "edit": "編集",
     "view": "表示",
+    "react": "React",
+    "nginx": "Nginx",
+    "npm": "NPM",
+    "docker": "Docker",
+    "git": "Git",
     "settings": "設定",
     "help": "ヘルプ",
     "new": "新しいファイル",
@@ -15,7 +20,9 @@
     "openFile": "ファイルを開く",
     "save": "保存",
     "saveAs": "名前を付けて保存",
-    "close": "閉じる",
+    "images": "画像",
+    "video": "動画",
+    "audio": "オーディオ",
     "closeAll": "すべて閉じる",
     "exit": "終了",
     "undo": "元に戻す",
@@ -51,7 +58,206 @@
     "title": "設定",
     "general": "一般",
     "editor": "エディター",
-    "appearance": "外観",
+    "pickBgHint": "背景として使用する画像ファイルを選択してください",
+    "appearance": {
+      "tab": "外観",
+      "basicSection": "基本コントロール",
+      "theme": {
+        "title": "アプリのテーマ",
+        "description": "アプリケーションが使用するのと同じ視覚スタイルでメインテーマをプレビューします。"
+      },
+      "accent": {
+        "title": "アクセントカラー",
+        "description": "インターフェースの強調表示に使用されるメインカラーを選択します。",
+        "custom": {
+          "title": "カスタムアクセントカラー",
+          "description": "固定パレットの代わりに、任意のCSSカラーまたは16進数値を使用します。",
+          "wheelLabel": "カラーピッカー",
+          "picker": "アクセントカラーピッカー",
+          "placeholder": "#0ea5e9 や rebeccapurple のような色を入力してください"
+        },
+        "colors": {
+          "slate": "スレート",
+          "red": "レッド",
+          "amber": "アンバー",
+          "emerald": "エメラルド",
+          "sky": "スカイ",
+          "violet": "バイオレット",
+          "orange": "オレンジ",
+          "cyan": "シアン",
+          "pink": "ピンク",
+          "gray": "グレー",
+          "yellow": "イエロー"
+        }
+      },
+      "previewSection": "ライブプレビュー",
+      "preview": {
+        "title": "リアルタイムの外観プレビュー",
+        "description": "適用する前に、レイアウトとアイコンの効果を確認します。",
+        "windowStyleTitle": "Windowsスタイルのフレーム",
+        "windowStyleDescription": "このプレビューでは、Windowsスタイルのタイトルバーとコントロールを使用しています。",
+        "windowTitle": "ウィンドウビュー",
+        "sidebarTitle": "サイドバーのサンプル",
+        "editorTitle": "エディターのサンプル",
+        "accentNote": "バーと強調表示は選択した色に従います。",
+        "summaryTitle": "現在の値",
+        "summary": {
+          "theme": "テーマ",
+          "sidebar": "サイドバーの幅",
+          "accent": "アクセントカラー",
+          "mode": "アイコンモード"
+        }
+      },
+      "layoutSection": "インターフェースの調整",
+      "layout": {
+        "title": "サーフェスと密度",
+        "description": "アプリのサイズ、間隔、全体的な視覚的な感触を制御します。",
+        "sidebarWidth": {
+          "title": "サイドバーの幅"
+        },
+        "density": {
+          "title": "視覚的密度",
+          "compact": "コンパクト",
+          "comfortable": "快適",
+          "spacious": "ゆったり"
+        },
+        "radius": {
+          "title": "角の丸み"
+        },
+        "blur": {
+          "title": "サーフェスのぼかし"
+        },
+        "motion": {
+          "title": "アニメーションの強度"
+        }
+      },
+      "sidebarIconsSection": "サイドバーアイコン",
+      "sidebarIcons": {
+        "title": "アイコンのカスタマイズ",
+        "description": "サイドバーの色をグループごと、または個別に変更します。",
+        "groupEditor": {
+          "title": "グループエディター",
+          "description": "1つのグループを選択し、そのプレビューのみを編集します。",
+          "target": "グループを選択"
+        },
+        "itemEditor": {
+          "title": "ファイルアイコンエディター",
+          "description": "ファイルの種類を選択し、シンプルビューとロゴビューを比較します。",
+          "target": "ファイルの種類を選択"
+        },
+        "custom": {
+          "value": "カスタム",
+          "picker": "サイドバーアイコンのカラーピッカー",
+          "placeholder": "#f59e0b や rgb(245, 158, 11) のような色を入力してください"
+        },
+        "preview": {
+          "simple": "シンプル",
+          "logo": "ロゴ",
+          "description": "これらは色が変更される代表的なアイコンです。"
+        },
+        "mode": {
+          "grouped": "グループごと",
+          "individual": "個別"
+        },
+        "groups": {
+          "folders": {
+            "title": "フォルダー",
+            "description": "ワークスペースのルートとフォルダーノード。"
+          },
+          "code": {
+            "title": "コード",
+            "description": "言語と実装ファイル。"
+          },
+          "config": {
+            "title": "設定",
+            "description": "JSON、YAML、TOML、INI、および環境変数。"
+          },
+          "web": {
+            "title": "Web",
+            "description": "HTML、XML、およびマークアップファイル。"
+          },
+          "styles": {
+            "title": "スタイル",
+            "description": "CSS、SCSS、SASS、およびプリプロセッサ。"
+          },
+          "data": {
+            "title": "データ",
+            "description": "SQL、CSV、および軽量データベース。"
+          },
+          "shell": {
+            "title": "ターミナル",
+            "description": "シェルスクリプトとPowerShell。"
+          },
+          "media": {
+            "title": "マルチメディア",
+            "description": "画像、動画、およびオーディオ。"
+          },
+          "archive": {
+            "title": "アーカイブ",
+            "description": "ZIP、RAR、TAR、および類似の形式。"
+          },
+          "text": {
+            "title": "テキスト",
+            "description": "プレーンテキスト、ドキュメント、およびログ。"
+          }
+        },
+        "items": {
+          "folder": "フォルダー",
+          "javascript": "JavaScript",
+          "typescript": "TypeScript",
+          "react": "React",
+          "nginx": "Nginx",
+          "npm": "NPM",
+          "docker": "Docker",
+          "git": "Git",
+          "json": "JSON",
+          "markdown": "Markdown",
+          "css": "CSS",
+          "html": "HTML",
+          "python": "Python",
+          "rust": "Rust",
+          "sql": "SQL",
+          "images": "画像",
+          "video": "動画",
+          "package": "JSONパッケージ",
+          "audio": "オーディオ",
+          "text": "テキスト",
+          "archive": "アーカイブ",
+          "keys": "キー"
+        },
+        "individual": {
+          "description": "各代表アイコンを個別にカスタマイズします。"
+        }
+      },
+      "effectsSection": "壁紙",
+      "effects": {
+        "windowTransparency": {
+          "title": "ウィンドウの透明度",
+          "description": "設定パネルを通して背景がどれくらい見えるかを調整します。",
+          "currentValue": "現在の値"
+        },
+        "iconStyle": {
+          "title": "アイコンのスタイル",
+          "description": "ファイルとインターフェースのアイコンの視覚的な処理を選択します。",
+          "color": "カラフル",
+          "mono": "モノクロ"
+        }
+      },
+      "advanced": {
+        "title": "高度な外観オプション",
+        "description": "より細かいカスタマイズが必要な場合にのみ、これらのコントロールを使用してください。",
+        "css": {
+          "title": "カスタムCSS",
+          "description": "プレビューパネルに適用されるスタイル。",
+          "placeholder": "ここにカスタムCSSを貼り付けてください..."
+        },
+        "theme": {
+          "title": "エディターテーマ（JSON）",
+          "description": "コードエディターのテーマのJSON。",
+          "placeholder": "ここにテーマのJSONを貼り付けてください..."
+        }
+      }
+    },
     "customCSS": "カスタムCSS",
     "customCSSDesc": "Markdownプレビューに適用されるCSSスタイル",
     "monacoTheme": "エディターテーマ（JSON）",
@@ -229,6 +435,8 @@
     "download": "言語をダウンロード",
     "available": "利用可能な言語",
     "installed": "インストール済み",
+    "updateBtn": "更新",
+    "updateAvailable": "アップデート利用可能",
     "downloadBtn": "ダウンロード",
     "downloading": "ダウンロード中...",
     "downloadSuccess": "ダウンロード完了！適用するには再起動してください",
@@ -308,6 +516,7 @@
     "video": "動画"
   },
   "credits": {
+    "text": "テキスト",
     "tab": "クレジット",
     "builtWith": "使用技術",
     "beta": "⚠ Hakuは現在ベータ版のため、バグが発生する可能性があります。",
