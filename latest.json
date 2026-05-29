@@ -1,11 +1,11 @@
 {
-  "version": "2.2.2",
-  "notes": "Fixs",
-  "pub_date": "2026-05-28T18:20:00Z",
+  "version": "2.3.0",
+  "notes": "Major",
+  "pub_date": "2026-05-29T18:20:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdWdsaEhmNXU4SnBkdzFMSUlMQkkyVGR2ODdiOVhTdU4wcTF6dlhyZHB1TGJWM1J2MitPaUltSHhGZmtqM3dGdUI4cFZtWmFybndxV1lJeTFEOG9CTU9VK1NYVEEwbUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDAxMDE5CWZpbGU6SGFrdV8yLjIuMl94NjQtc2V0dXAuZXhlCldUTGY3dVJCVFdOcE5QRmNVbnNPUnMvMjY2OFlKQk9WZkxNYUhWOEVva0lFMi8wU2xrWUIzbzMrdVA1amZrY3FRTktIeGlsVm9hck5ueEt4NHNIVUJnPT0K",
-      "url": "https://github.com/ItsDasp/haku-releases/releases/download/v2.2.2/Haku_2.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdWdsaEhmNXU4SnNrb3FXbU1OdFVydlpLUHZRSEtaeHZNMHprWVU5Yy9aUkZZTVhJZFBRMVVWbHVqZFlCN05XY2FRRThnTjQvd1dTMkczS0VZWjJ2b1RESTVpKzFFeEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDI3MTY1CWZpbGU6SGFrdV8yLjMuMF94NjQtc2V0dXAuZXhlCmR6R053ejJZaDBHMys3LzN2OHk2cFZ6V0J2YmI4SEpDYmNmWjF6eDRCaXF6bElOanF2TlVsTGlCd2ZtaVBtVm8xZi9UR1g5djNycXV3RHVWNWppK0NnPT0K",
+      "url": "https://github.com/ItsDasp/haku-releases/releases/download/v2.3.0/Haku_2.3.0_x64-setup.exe"
     }
   }
 }
