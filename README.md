@@ -11,7 +11,7 @@ Open folders and workspaces in a minimal interface designed to stay fast without
 It also supports opening image and video files directly inside the app for quick previewing.
 Maybe in the future it'll even support stuff like PDFs, spreadsheets, presentations, and other file types too.
 
-![Appearance Tab](https://i.imgur.com/HqQKa6o.png)
+![Appearance Tab](https://i.imgur.com/FF1RLwI.png)
 </div><br>This is not really a full IDE (at least for now).
 The goal is simply to make a modern editor that feels comfortable to use.
 
