@@ -1,4 +1,4 @@
-![Haku Text Editor](https://i.imgur.com/y73B56F.png)
+![Haku Text Editor](https://i.imgur.com/2m2MPF9.png)
 
 A lightweight text editor built with Tauri, focused on simplicity, speed, and customization.
 
