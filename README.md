@@ -18,7 +18,7 @@ The goal is simply to make a modern editor that feels comfortable to use.
 The entire project is currently being developed by one person, so some things may still be a little rough around the edges.
 It is also planned to become fully open source in the future.
 
-![Haku Itself](https://i.imgur.com/hIlvAAK.png)
+![Haku Itself](https://i.imgur.com/rsWS3f6.png)
 </div><br>Since the project is still in beta, bugs and weird behavior may happen sometimes.
 Feedback, bug reports, and suggestions are genuinely appreciated lol.
 
