@@ -25,7 +25,7 @@ It's a reason to make the API more powerful.
 Plugins can be created and built using Haku's own tooling:
 
 ```bash
-haku init
+haku create
 haku build
 ```
 
